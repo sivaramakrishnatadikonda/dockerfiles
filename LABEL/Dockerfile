@@ -1,5 +1,3 @@
 FROM almalinux:9
-LABEL COURSE="DevOps" \
-      TRAINER="SIVA"  
-
+LABEL COURSE="DevOps"  
 CMD ["sleep", "10000"]
