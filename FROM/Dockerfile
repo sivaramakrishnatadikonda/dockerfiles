@@ -1,1 +1,1 @@
-FROM : almlinux:9
+FROM : almalinux:9

@@ -1,4 +1,4 @@
-FROM almlinux:9
+FROM almalinux:9
 LABEL COURSE="DevOps" \
       TRAINER="SIVA"  
 
